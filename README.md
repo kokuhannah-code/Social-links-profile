@@ -9,4 +9,4 @@ A responsive social links profile built with HTML and CSS
 # What I learned
 while working on this project, I learned more about creating responsive layouts and using CSS to control spacing, positioning, and hover effects.
 # challenge
-One of the challenges I faced was getting the spacing and layout right, I adjusted my CSS until the design worked well on both desktop and mobile.
+One of the challenges I faced was getting the spacing and layout right, I had to make a few adjustments to my CSS until the design worked well on both desktop and mobile.
