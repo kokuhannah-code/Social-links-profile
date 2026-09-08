@@ -1,2 +1,2 @@
 # Social-links-profile
-A responsive social link profile built with HTML and CSS
+A responsive social links profile built with HTML and CSS
